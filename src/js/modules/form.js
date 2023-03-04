@@ -7,7 +7,7 @@ export default class Form{
             success: 'Thank you, we will connect with you',
             failure: 'Something wrong..'
         };
-        this.path = 'assets/questions.php';
+        this.path = 'assets/question.php';
     }
 
     clearInputs(){
